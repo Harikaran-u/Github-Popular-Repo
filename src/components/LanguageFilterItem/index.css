@@ -1,0 +1,24 @@
+.lang-nav-links {
+  list-style-type: none;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.lang-nav-btn {
+  border: 0px solid;
+  background-color: transparent;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: bold;
+  color: #0f172a;
+  outline: none;
+  cursor: pointer;
+}
+.active-btn {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  background-color: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 14px;
+  width: 100%;
+}
